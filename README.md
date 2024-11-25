@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JinxiaoZhou
-- 👀 I’m interested in sporting 
-- 🌱 I’m currently learning JavaScrip, CSS, HTML and Python 
-- 💞️ I’m looking to collaborate on java, MATLAB
+- 👀 I’m interested in cycling, skiing, hiking, running, and love to try all kinds of sports. 
+- 🌱 I’m currently learning Python 
+- 💞️ I’m looking to collaborate on Java, MATLAB, JavaScrip, CSS, HTML
 - 📫 Reach me via johnnyzhoujinxiao@gmail.com
 - 
 
